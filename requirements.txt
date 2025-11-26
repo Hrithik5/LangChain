@@ -11,3 +11,6 @@ python-dotenv
 typesense
 langchain_openai
 langgraph
+wikipedia
+arxiv
+langchain-tavily
