@@ -17,3 +17,4 @@ langchain-tavily
 langchain-mcp-adapters
 fastmcp
 mcp
+langgraph-cli[inmem]
