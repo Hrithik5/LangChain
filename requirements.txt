@@ -14,3 +14,6 @@ langgraph
 wikipedia
 arxiv
 langchain-tavily
+langchain-mcp-adapters
+fastmcp
+mcp
